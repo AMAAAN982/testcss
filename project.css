@@ -1,0 +1,538 @@
+img{
+    border-radius: 50%;
+}
+.imagecontainer{
+    
+    height: 35%;
+    
+}
+   
+    
+    
+    
+
+
+.imager{
+    margin-top: 7%;
+    margin-left: 7%;
+    
+    
+    
+    float: left;
+    
+    
+    
+    background-color: white;
+    padding: 1% ;
+    border: 3px solid rgb(24, 224, 174);
+    
+    
+    
+
+    
+    border-radius: 50%;
+    
+
+}
+body{
+    height:100vh;
+    
+    background-color: white;
+    
+    
+    
+    
+   
+}
+
+.heading{
+    float: left;
+    margin-top: 10%;
+    margin-right:  0;
+    margin-left: 5% ;
+
+    
+    background-color: lightcyan;
+    width: 950px;
+    height: 35%;
+    
+    
+    
+    
+
+
+    
+    
+    
+    
+
+}
+.head{
+    padding-left: 40px;
+    
+    
+    
+    
+
+}
+p{
+    font-weight: lighter;
+    font-size: 30px;
+    
+    
+}
+.head2{
+    margin-left: 40px;
+    margin-top: -31px;
+    font-size: 25px;
+}
+
+
+.spanner{
+    font-weight: bold;
+}
+.verticalline{
+    background-color: rgb(24, 224, 174);
+    height:70% ;
+    width: 3px ;
+    margin-top: 20px;
+    margin-bottom: 2%;
+    float: left;
+    margin-left: 2%;
+}
+.testimonial{
+    float: inline-start;
+    margin-top: 2% ;
+    margin-left: 150px;
+   
+}
+.contact{
+    float: left;
+    font-weight: bold;
+}
+.contactp{
+    font-weight: bolder;
+
+}
+.aboutp{
+    font-weight: bolder;
+    margin-top: 40px;
+
+}
+.about{
+    margin-left: 720px;
+    float: right;
+    margin-top: -230px;
+    
+
+}
+.contactsvg{
+    height: 10px;
+    
+    width: 10px;
+}
+.mail{
+    margin-top: 30px;
+    margin-left: 5px;
+}
+.verticallinefeature{
+    background-color :rgb(24, 224, 174);
+    height: 100px;
+    width: 4px;
+    float: left;
+    margin-top:125px;
+    margin-left: -30px;
+
+}
+.phone{
+    float: left;
+    margin-top:-65px ;
+    margin-left: 60px;
+    height: 40px;
+    width: 70px;
+}
+
+
+   
+.phonetext{
+    font-size: 20px;
+    margin-bottom: -23px ;
+    
+    
+   
+}
+.numbertext{
+    font-size: 20px;
+    
+}
+.mailper{
+    height: 40px;
+    width: 70px;
+    float: left;
+    margin-top: -75px;
+    margin-left: 60px;
+
+}
+.emailtext{
+    font-size: 20px;
+    margin-bottom: -40px;
+    margin-top: 33px;
+}
+.vrfeature{
+    background-color :rgb(24, 224, 174);
+    height: 100px;
+    width: 4px;
+    float: left;
+    margin-top:15px;
+    margin-left: -30px;
+
+
+}
+
+.randomparagraph{
+    font-size: 17px;
+
+}
+.horizontalline{
+    width: 100%;
+    height: 4px;
+    background-color:rgb(24, 224, 174) ;
+    margin-top: 280px;
+    margin-left: -30px;
+}
+
+.experience{
+    margin-left: 464px;
+    margin-top:-287px;
+    
+    
+    
+    
+}
+#dot{
+    height: 10px;
+    width: 10px;
+    background-color:rgb(24, 224, 174) ;
+    border-radius: 50%;
+}
+.vrsm{
+    background-color :rgb(24, 224, 174);
+    height: 300px;
+    width: 4px;
+    float: left;
+    margin-top:-50px;
+    margin-left: -20px;
+}
+.dotsm1{
+    margin-left: -23px;
+    margin-top:-52px;
+
+    
+    
+}
+.dotsm2{
+    margin-left: -23px;
+    
+    margin-top:50px ;
+}
+.dotsm3{
+    margin-top: 70px;
+    margin-left: -23px;
+}
+.dotsm4{
+    margin-top:70px ;
+    margin-left: -23px;
+}
+.twitter{
+
+    margin-left: 20px;
+    margin-top: 35px;
+
+
+}
+.twtxt{
+    font-size:25px;
+    margin-left: 65px;
+    margin-top: -43px;
+}
+.twtid{
+    font-size: 20px;
+    margin-top: -30px;
+    margin-left: 65px;
+
+}
+.facebook{
+    margin-top: -180px;
+    margin-left: 20px;
+
+}
+.fctxt{
+    margin-left: 65px;
+    font-size: 25px;
+    margin-top: -45px;
+}
+.idoffc{
+    margin-top: -30px;
+    margin-left: 65px;
+    font-size: 20px;
+}
+.instagram{
+    margin-left: 20px;
+    margin-top: 30px;
+
+}
+.instxt{
+    margin-top:  -46px;
+    font-size: 25px;
+    margin-left: 65px;
+
+}
+.instid{
+    margin-top: -30px;
+    margin-left:65px ;
+    font-size: 20px;
+}
+
+.hrmarginer{
+    width: 29%;
+    height: 4px;
+    background-color:rgb(24, 224, 174) ;
+    margin-top: -320px;
+    margin-left: -20px;
+}
+.expvr{
+    background-color :rgb(24, 224, 174);
+    height: 700px;
+    width: 4px;
+    
+    margin-top:-50px;
+    margin-left: 420px;
+
+}
+.expdot1{
+    margin-left: -47px;
+    margin-top: 40px;
+
+}
+.expdot2{
+    margin-top: 55px;
+    margin-left: -47px;
+
+
+}
+.expdot3{
+    margin-top: 205px;
+    margin-left: -47px;
+
+
+}
+.expdot4{
+    margin-top: 205px;
+    margin-left: -47px;
+
+
+}
+.expr{margin-top: -514px;
+    font-weight: bolder;
+
+}
+.smpr{
+    font-weight: bolder;
+    margin-left: 20px;
+}
+
+.jobposition{
+    margin-left: 460px;
+    margin-top: -700px;
+}
+.jb1{
+    margin-top: 50px;
+}
+.jb2{
+    margin-top: 50px;
+}
+.jb3{
+    margin-top: 53px;
+}
+#prjb{
+    font-size: 20px;
+}
+#prcp{
+    font-size: 23PX;
+    color:rgb(24, 224, 174) ;
+    margin-top: -20PX;
+
+}
+.langpr{
+    font-weight: bolder;
+    font-size: 40px;
+
+}
+.languages{
+    margin-left: 15px;
+    
+   
+    margin-top:20px;
+
+}
+#native{
+    font-size: 20px;
+    color: rgb(24, 224, 174);
+}
+#lang{
+    font-size: 25px;
+
+}
+.english{
+    margin-top: -20px;
+
+}
+.englishnt{
+    margin-top: -20px;
+}
+.mandarinnt{
+    margin-top: -20px;
+}
+.italiannt{
+    margin-top: -20px;
+}
+.spanishnt{
+    margin-top: -20px;
+}
+.vrlang{
+    background-color :rgb(24, 224, 174);
+    height: 350px;
+    width: 4px;
+    
+    margin-top:-370px;
+    margin-left: -30px;
+
+}
+.lndot1{
+margin-top: -350px;
+margin-left: -33px;
+}
+.lndot2{
+    margin-top:50px;
+    margin-left: -33px;
+}
+.lndot3{
+    margin-top: 70px;
+    
+    margin-left: -33px
+    ;}
+.lndot4{
+
+    margin-top: 72px;
+    margin-left: -33px;
+}
+.lndot5{
+    margin-top: 71px;
+    margin-left: -33px;
+}
+.lnhr{
+    
+        width: 29%;
+        height: 4px;
+        background-color:rgb(24, 224, 174) ;
+        margin-top: 70px;
+        margin-left: -20px;
+}
+.exphr{ 
+    width: 70%;
+    height: 4px;
+    background-color:rgb(24, 224, 174) ;
+    margin-top: -50px;
+    margin-left: 420px;
+}
+.proskills{
+    margin-top: 90px;
+    margin-left: 20px;
+}
+.provr{
+    background-color :rgb(24, 224, 174);
+    height: 550px;
+    width: 4px;
+    
+    margin-top:-470px;
+    margin-left: -30px;
+
+
+}
+.prodot1{
+    margin-top: -553px;
+    margin-left: -53px;
+}
+.prodot2{
+    margin-top:50px;
+    margin-left: -53px;
+}
+.prodot3{
+    margin-top: 95px;
+    margin-left:-53px ;
+}
+.prodot4{
+    margin-top: 90px;
+    margin-left:-53px ;
+}
+.prodot5{
+    margin-top: 90px;
+    margin-left:-53px ;
+
+}
+.prodot6{
+    margin-top: 90px;
+    margin-left: -53px;
+
+}
+.experience2{
+    margin-top: -660PX;
+    margin-left: 470PX;
+
+}
+.exp2vr{
+    background-color :rgb(24, 224, 174);
+    height:800px;
+    width: 4px;
+    
+    margin-top:-600px;
+    margin-left: 420px;
+
+}
+.exp2dot1{
+    margin-top:-760px;
+    margin-left: -53px;
+}
+.exp2dot2{
+    margin-left: -53px;
+    margin-top:55px;
+    
+}
+.exp2dot3{
+    margin-left: -53px;
+    margin-top:255px;
+
+    
+}
+.exp2dot4{
+    margin-top: 250px;
+    margin-left: -53px;
+    
+}
+.exp2jb1{
+    margin-top: 20px;
+
+}
+.exp2jb2{
+    margin-top: 100px;
+}
+.exp2jb3{
+    margin-top: 100px;
+
+}
+
+
+
+
+
+
